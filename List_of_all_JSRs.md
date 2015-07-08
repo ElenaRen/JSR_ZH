@@ -150,7 +150,7 @@ JSR的全部列表
 |336|Java Platform, Standard Edition ("Java SE") [OpenJDK 7] ?|
 |343|Java Message Service 2.0 (JMS)|
 |354|Java Money & Currency API|
-|356|Java API for WebSocket|
+|356| WebSocket|
     
 
 > * [原始地址 https://www.jcp.org/en/jsr/all](https://www.jcp.org/en/jsr/all)
